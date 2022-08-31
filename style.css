@@ -27,6 +27,9 @@ ul {
 }
 nav {
     color: #777;
+    position: sticky;
+    top: 1px;
+    background-color: white;
 }
 
 li {
